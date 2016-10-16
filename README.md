@@ -1,4 +1,4 @@
-# Mindful-Design-Manifesto
+# Mindful Design 
 A guide to making technologies that's aware of and respects people's minds, bodies, and brains.
 
 What follows is a slightly edited copy of the first version, written in a one-sided Slack conversation. 
